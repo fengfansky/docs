@@ -512,7 +512,7 @@ Media 用来播放CloudApp返回的流媒体内容。有 *audio* 和 *video* 两
 ```
 "media": {
     "needEventCallback": true,
-    "action": "PLAY/PAUSE/RESUME",
+    "action": "PLAY/PAUSE/RESUME／FORWARD/BACKWARD",
     "behaviour": "APPEND/REPLACE_ALL/REPLACE_APPEND/CLEAR",
     "item": {}
 }
